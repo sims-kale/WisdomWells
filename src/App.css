@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.Quote {
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 20px;
+}
